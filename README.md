@@ -57,8 +57,8 @@ pip install tabulate
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/f1-timing-analysis.git
-   cd f1-timing-analysis
+   https://github.com/kusiyaitkrishna/Formula-1-Timing-Analysis-Project.git
+   cd Formula-1-Timing-Analysis-Project
    ```
 
 2. Run the program:
